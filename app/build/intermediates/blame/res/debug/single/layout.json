@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setsecret.xml",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\layout\\setsecret.xml"
+    },
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\verify.xml",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\layout\\verify.xml"
+    },
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

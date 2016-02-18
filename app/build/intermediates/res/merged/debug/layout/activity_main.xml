@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#aeffea"
+	tools:context="${relativePackage}.${activityClass}" >
+
+	<ImageView
+		android:id="@+id/imageView_open"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="75dp"
+		android:src="@drawable/a" />
+
+	<Button
+		android:id="@+id/button_open"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/button_set"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="18dp"
+		android:text="打开一个需要手势验证的activity"
+		android:textColor="@android:color/black" />
+
+	<TextView
+		android:id="@+id/textView_pwd"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_centerVertical="true"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:textColor="@android:color/black" />
+
+	<Button
+		android:id="@+id/button_set"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/textView_pwd"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="17dp"
+		android:text="设置密码"
+		android:textColor="@android:color/black" />
+
+	<TextView
+		android:id="@+id/textView1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignBaseline="@+id/textView_pwd"
+		android:layout_alignBottom="@+id/textView_pwd"
+		android:layout_marginRight="10dp"
+		android:layout_toLeftOf="@+id/textView_pwd"
+		android:text="当前密码" />
+
+</RelativeLayout>

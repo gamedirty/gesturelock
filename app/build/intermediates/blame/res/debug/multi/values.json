@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 42,
+                    "endOffset": 234
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 56,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 239,
+                    "endColumn": 52,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 97,
+                        "endColumn": 49,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 70,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 257,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 57,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 148,
+                        "endColumn": 54,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 54,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 204,
+                        "endColumn": 51,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endLine": 14,
+                    "endColumn": 9,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 182,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 492,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 640
+                    }
+                }
+            }
+        ]
+    }
+]

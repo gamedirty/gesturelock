@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a.png",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\drawable-xhdpi\\a.png"
+    },
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b.png",
+        "source": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\drawable-xhdpi\\b.png"
+    }
+]

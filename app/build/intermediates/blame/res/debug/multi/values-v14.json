@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "F:\\ABOUTWORK\\getsturelock\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\getsturelock\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 216,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 355
+                    }
+                }
+            }
+        ]
+    }
+]

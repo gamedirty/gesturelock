@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">a高仿解锁</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="title_activity_setsecret">设置密码</string>
+	<string name="title_activity_verify">输入手势</string>
+	<string name="title_activity_other">我是一个需要手势密码打开的activity</string>
+
+</resources>
